@@ -1,7 +1,7 @@
 // "activityBarBadge.background": "#171923",
 // "activityBarBadge.foreground": "#ff2d20",
 {
-	"name": "Tech Theme - Vue Dark",
+	"name": "Tech Theme - Laravel Dark",
 	"type": "dark",
 	"colors": {
 	  "panel.background": "#171923",

@@ -1,16 +1,32 @@
-# tech-theme README
+# Tech Themes
 
-## Working with Markdown
+Tech Themes is a collection of custom themes for code editors, designed specifically for developers working with different technologies. The themes are optimized to provide an aesthetically pleasing and comfortable visual experience in both dark and light environments.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Available Themes
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### 🌑 Dark Themes
+- **Tech Theme - Vue Dark**
+- **Tech Theme - Laravel Dark**
+- **Tech Theme - Next JS Dark**
+- **Tech Theme - React Dark**
+- **Tech Theme - Svelte Dark**
+- **Tech Theme - Go Dark**
+- **Tech Theme - Angular Dark**
+- **Tech Theme - Net Dark**
+- **Tech Theme - Python Dark**
 
-## For more information
+### ☀️ Light Themes
+- **Tech Theme - Vue Light**
+- **Tech Theme - Laravel Light**
+- **Tech Theme - Next JS Light**
+- **Tech Theme - React Light**
+- **Tech Theme - Svelte Light**
+- **Tech Theme - Go Light**
+- **Tech Theme - Angular Light**
+- **Tech Theme - Net Light**
+- **Tech Theme - Python Light**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/En8oy/Tech-Theme.git
