@@ -1,11 +1,4 @@
 {
-  "name": "tech-theme",
-  "displayName": "Tech Theme",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.97.0"
-  },
   "categories": [
     "Themes"
   ],
@@ -13,19 +6,101 @@
     "themes": [
       {
         "label": "Tech Theme - Vue Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tech Theme - Vue Dark-color-theme.json"
+        "path": "./themes/Tech Theme - Vue Dark-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
         "label": "Tech Theme - Laravel Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tech Theme - Laravel Dark-color-theme.json"
+        "path": "./themes/Tech Theme - Laravel Dark-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
         "label": "Tech Theme - Next JS Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tech Theme - Next JS Dark-color-theme.json"
+        "path": "./themes/Tech Theme - Next JS Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - React Dark",
+        "path": "./themes/Tech Theme - React Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Svelte Dark",
+        "path": "./themes/Tech Theme - Svelte Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Go Dark",
+        "path": "./themes/Tech Theme - Go Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Angular Dark",
+        "path": "./themes/Tech Theme - Angular Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Net Dark",
+        "path": "./themes/Tech Theme - Net Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Python Dark",
+        "path": "./themes/Tech Theme - Python Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Tech Theme - Vue Light",
+        "path": "./themes/Tech Theme - Vue Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Laravel Light",
+        "path": "./themes/Tech Theme - Laravel Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Next JS Light",
+        "path": "./themes/Tech Theme - Next JS Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - React Light",
+        "path": "./themes/Tech Theme - React Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Svelte Light",
+        "path": "./themes/Tech Theme - Svelte Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Go Light",
+        "path": "./themes/Tech Theme - Go Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Angular Light",
+        "path": "./themes/Tech Theme - Angular Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Net Light",
+        "path": "./themes/Tech Theme - Net Light-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Tech Theme - Python Light",
+        "path": "./themes/Tech Theme - Python Light-color-theme.json",
+        "uiTheme": "vs"
       }
     ]
-  }
+  },
+  "description": "",
+  "displayName": "Tech Theme",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "name": "tech-theme",
+  "version": "0.0.1"
 }

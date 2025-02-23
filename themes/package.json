@@ -1,0 +1,47 @@
+{
+  "name": "tech-theme",
+  "displayName": "Tech Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tech Theme - Vue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - Vue Dark-color-theme.json"
+      },
+      {
+        "label": "Tech Theme - Laravel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - Laravel Dark-color-theme.json"
+      },
+      {
+        "label": "Tech Theme - Next JS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - Next JS Dark-color-theme.json"
+      },
+      {
+        "label": "Tech Theme - React Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - React Dark-color-theme.json"
+      },
+      {
+        "label": "Tech Theme - Svelte Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - Svelte Dark-color-theme.json"
+      },
+      {
+        "label": "Tech Theme - Go Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tech Theme - Go Dark-color-theme.json"
+      }
+      
+    ]
+  }
+}
